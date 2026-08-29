@@ -35,8 +35,6 @@ The post includes community discussions on:
 - Compliance and cost analysis  
 - Peer examples of hybrid routing patterns (CloudFront + ALB + Lambda)  
 
-Feel free to join the conversation and share your insights!
-
 ---
 
 ## 🏗 Architecture Overview  
