@@ -104,6 +104,3 @@ For **EC2 + ALB** workloads, each instance and load balancer emits dozens of met
 - **Verified results** show ≈ 88 % cost reduction and < 60 ms warm-path latency in eu-west-2 (London).
 
 
-### 🔗 Related Files  
-- 📄 [Whitepaper PDF](./whitepaper/Serverless_Technical_Analysis_Verified_Oct2025.pdf)  
-- 📊 [Serverless and EC2 Calculator](./evidence/AWS_Cost_Estimate_Serverless_vs_EC2_Oct2025.pdf)  
