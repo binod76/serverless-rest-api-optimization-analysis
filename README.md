@@ -19,16 +19,6 @@ The accompanying analysis provides measurable insights on:
 
 ---
 
-## 🔗 Reference & Community Discussion  
-
-The post includes community discussions on:
-- Security-first API design  
-- Lambda vs EC2 architectural trade-offs  
-- Compliance and cost analysis  
-- Peer examples of hybrid routing patterns (CloudFront + ALB + Lambda)  
-
----
-
 ## 🏗 Architecture Overview  
 The solution follows a **fully serverless, event-driven design** using managed AWS services.
 
