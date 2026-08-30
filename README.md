@@ -6,6 +6,7 @@
 <p align="center">
   <img src="./diagrams/architecture.drawio.png" alt="Serverless Architecture Diagram" width="800"/>
 ---
+<img width="1392" height="731" alt="architecture drawio" src="https://github.com/user-attachments/assets/3060243d-c207-46b4-a987-c6a44b9ab2ac" />
 
 ## 📘 Objective  
 
