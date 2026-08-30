@@ -1,5 +1,5 @@
 # ☁️ Serverless REST API Architecture  
-### Technical Cost & Performance Analysis — AWS eu-west-2 (London)
+### Technical Cost & Performance Analysis 
 
 ---
 <img width="1392" height="731" alt="architecture drawio" src="https://github.com/user-attachments/assets/3060243d-c207-46b4-a987-c6a44b9ab2ac" />
